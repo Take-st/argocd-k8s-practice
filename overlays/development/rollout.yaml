@@ -3,4 +3,4 @@ kind: Rollout
 metadata:
   name: nginx-rollout
 spec:
-  replicas: 5
+  replicas: 4
